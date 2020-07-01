@@ -1,0 +1,23 @@
+{
+  "author": "NewGr8Player",
+  "homepage": "https://newgr8player.top",
+  "pluginName": "RegexTester",
+  "description": "正则表达式测试工具",
+  "main": "index.html",
+  "version": "0.1.0",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "RegexTester",
+      "explain": "RegexTester",
+      "cmds": [
+        "Regex",
+        "regx",
+        "tester",
+        "Regex tester",
+        "RegexTester",
+        "rt"
+      ]
+    }
+  ]
+}

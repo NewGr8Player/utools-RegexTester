@@ -1,0 +1,20 @@
+.alert {
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-left: 0;
+}
+
+.btn-toolbar .btn-group, .btn-toolbar .input-group {
+    float: right;
+}
+
+textarea {
+    word-break: break-all;
+}
+
+.title {
+    display: inline-block;
+    margin: 0;
+    height: 30px;
+    line-height: 30px;
+}
